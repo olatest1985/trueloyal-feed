@@ -1,0 +1,5 @@
+sku,name,description,image_url,url,price,currency,availability,brand,categories
+SKU-001,Test Product 1,Sample product for TrueLoyal
+testing,https://via.placeholder.com/300,https://example.com/product1,10.00,EUR,in_stock,TestBrand,default
+SKU-002,Test Product 2,Second sample
+product,https://via.placeholder.com/300,https://example.com/product2,20.00,EUR,in_stock,TestBrand,default
